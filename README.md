@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rootbrute7000
-- 👀 I’m interested in python, cyber security, html, java, c++.
-- 🌱 I’m currently learning python, c++, ML
-- 💞️ I’m looking to collaborate on ai projects.
-- 📫 How to reach me edrithivic@gmail.com
+- 👀 I’m interested in python, cyber security, html, java, c++, blockchain. 
+- 🌱 I’m currently learning python and blockchain. 
+- 💞️ I’m looking to collaborate on python projects.
+- 📫 How to reach me root7000@protonmail.com
 
 <!---
 rootbrute7000/rootbrute7000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
